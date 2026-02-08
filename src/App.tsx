@@ -7,7 +7,7 @@ import UsersPage from './pages/UsersPage';
 import NotFoundPage from './pages/NotFoundPage';
 import { AuthProvider } from './components/AuthProvider';
 
-// Создаем клиент для React Query
+
 const queryClient = new QueryClient();
 
 function App() {
